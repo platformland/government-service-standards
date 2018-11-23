@@ -1,6 +1,6 @@
 IsoCountryCode,Name,Url,OrganisationName,Licences,Notes
 GB,Digital Service Standard,https://www.gov.uk/service-manual/service-standard,HM Government,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/, Maintained by the Government Digital Service
-NZ,Digital service design standard,https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/,Government of New Zealand/Te Kāwanatanga o Aotearoa,https://creativecommons.org/licenses/by/4.0/,,
-AU,Digital Service Standard criteria,https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria\,Commonwealth of Australia,"https://creativecommons.org/licenses/by/4.0/,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",,,
-GB,Local Government Digital Service Standard,LocalGovDigital,,,
-GB,Digital First Service Standard,https://resources.mygov.scot/standards/digital-first/,,,
+NZ,Digital service design standard,https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/,Government of New Zealand/Te Kāwanatanga o Aotearoa,https://creativecommons.org/licenses/by/4.0/,
+AU,Digital Service Standard criteria,https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria\,Commonwealth of Australia,"https://creativecommons.org/licenses/by/4.0/,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+GB,Local Government Digital Service Standard,https://localgov.digital/service-standard,LocalGovDigital,,
+GB,Digital First Service Standard,https://resources.mygov.scot/standards/digital-first/,Scottish Government,,
