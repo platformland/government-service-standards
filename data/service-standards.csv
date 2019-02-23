@@ -1,19 +1,20 @@
-IsoCountryCode,Name,Url,OrganisationName,Licences,Notes
-GB,Digital Service Standard,https://www.gov.uk/service-manual/service-standard,HM Government,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/, Maintained by the Government Digital Service
-NZ,Digital service design standard,https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/,Government of New Zealand/Te Kāwanatanga o Aotearoa,https://creativecommons.org/licenses/by/4.0/,
-AU,Digital Service Standard criteria,https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria\,Commonwealth of Australia,"https://creativecommons.org/licenses/by/4.0/,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-GB,Local Government Digital Service Standard,https://localgov.digital/service-standard,LocalGovDigital,,
-GB,Digital First Service Standard,https://resources.mygov.scot/standards/digital-first/,Scottish Government,,
-FI,Principles of digitalisation,https://vm.fi/en/principles-of-digitalisation,Finnish government,,
-IT,Manifesto of Technological and Operating Principles,https://teamdigitale.governo.it/en/2-content.htm,Italian Government,,
-MX,Principios de Servicios Digitales,https://www.gob.mx/serviciosdigitales/es/articulos/principios-generales-de-diseno-de-servicios-digitales,Federal government of Mexico,,
-US,Digital Services Playbook,https://playbook.cio.gov,Federal government of the United States,https://creativecommons.org/publicdomain/zero/1.0/,
-SG,Digital Service Standards,https://www.tech.gov.sg/digital-service-standards/,Government of Singapore,Copyright the Government of Singapore,The full standard is contained in a PDF
-CA,Digital Service Standard,https://www.ontario.ca/page/digital-service-standard,Government of Ontario,https://www.ontario.ca/page/open-government-licence-ontario,Page does not load in some browsers / requires javascript
-CA,Government of Canada Digital Standards,https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html,Government of Canada/Gouvernement du Canada,Copyright the Government of Canada,
-JE,Digital design principles,https://www.gov.je/Government/PublicSectorReform/eGovernment/Pages/DesignPrinciples.aspx,States of Jersey,Copyright States of Jersey,
-TW,Government Digital Service Guidelines (Beta Version),https://www.ndc.gov.tw/en/Content_List.aspx?n=F0A930AACDBCBA68,Government of Taiwan,Copyright National Development Council,
-GB,"NHS digital, data and technology standards framework (Beta)",https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework,National Health Service,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-ES,Digital Service Standards,https://www.barcelona.cat/digitalstandards/en/digital-services/0.1/,Ajuntament de Barcelona,https://creativecommons.org/licenses/by-sa/4.0/
-DE,"Digitaler Servicestandard für Deutschland",http://publicservicelab.de/Ressourcen/Deutschland-Servicestandard.pdf,"Nationaler Normenkontrollrat",
-AU,"Digital Standards Framework",https://www.vic.gov.au/digitalstandards/about-the-digital-standards-framework.html,"State Government of Victoria",
+IsoCountryCode,Type,Name,Url,OrganisationName,Licences,Notes
+GB,service,Digital Service Standard,https://www.gov.uk/service-manual/service-standard,HM Government,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/, Maintained by the Government Digital Service
+NZ,service,Digital service design standard,https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/,Government of New Zealand/Te Kāwanatanga o Aotearoa,https://creativecommons.org/licenses/by/4.0/,
+AU,service,Digital Service Standard criteria,https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria\,Commonwealth of Australia,"https://creativecommons.org/licenses/by/4.0/,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+GB,service,Local Government Digital Service Standard,https://localgov.digital/service-standard,LocalGovDigital,,
+GB,service,Digital First Service Standard,https://resources.mygov.scot/standards/digital-first/,Scottish Government,,
+FI,service,Principles of digitalisation,https://vm.fi/en/principles-of-digitalisation,Finnish government,,
+IT,service,Manifesto of Technological and Operating Principles,https://teamdigitale.governo.it/en/2-content.htm,Italian Government,,
+MX,service,Principios de Servicios Digitales,https://www.gob.mx/serviciosdigitales/es/articulos/principios-generales-de-diseno-de-servicios-digitales,Federal government of Mexico,,
+US,service,Digital Services Playbook,https://playbook.cio.gov,Federal government of the United States,https://creativecommons.org/publicdomain/zero/1.0/,
+SG,service,Digital Service Standards,https://www.tech.gov.sg/digital-service-standards/,Government of Singapore,Copyright the Government of Singapore,The full standard is contained in a PDF
+CA,service,Digital Service Standard,https://www.ontario.ca/page/digital-service-standard,Government of Ontario,https://www.ontario.ca/page/open-government-licence-ontario,Page does not load in some browsers / requires javascript
+CA,service,Government of Canada Digital Standards,https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html,Government of Canada/Gouvernement du Canada,Copyright the Government of Canada,
+JE,service,Digital design principles,https://www.gov.je/Government/PublicSectorReform/eGovernment/Pages/DesignPrinciples.aspx,States of Jersey,Copyright States of Jersey,
+TW,service,Government Digital Service Guidelines (Beta Version),https://www.ndc.gov.tw/en/Content_List.aspx?n=F0A930AACDBCBA68,Government of Taiwan,Copyright National Development Council,
+GB,service,"NHS digital, data and technology standards framework (Beta)",https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework,National Health Service,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+ES,service,Digital Service Standards,https://www.barcelona.cat/digitalstandards/en/digital-services/0.1/,Ajuntament de Barcelona,https://creativecommons.org/licenses/by-sa/4.0/
+DE,service,"Digitaler Servicestandard für Deutschland",http://publicservicelab.de/Ressourcen/Deutschland-Servicestandard.pdf,"Nationaler Normenkontrollrat",
+AU,service,"Digital Standards Framework",https://www.vic.gov.au/digitalstandards/about-the-digital-standards-framework.html,"State Government of Victoria",
+GB,api,"API technical and data standards"https://www.gov.uk/guidance/gds-api-technical-and-data-standards,HM Government,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/, Maintained by the Government Digital Service
